@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في صمت الليل أسمع نداك
+> وكل أحلامي تطير معاك
+> يا ساحر القلب خذني إليك
+> حياتي وعمري بين يديك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
